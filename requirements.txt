@@ -20,7 +20,7 @@ googleapis-common-protos==1.5.9
 grpcio==1.19.0
 guacamole==0.9.2
 gunicorn==19.9.0
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.9.1
 idna==2.8
 itsdangerous==1.1.0
